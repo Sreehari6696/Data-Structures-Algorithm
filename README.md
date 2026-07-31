@@ -11,3 +11,10 @@ This repository serves as a personal archive and structured knowledge base for D
 Each solution focuses on correctness, readability, and efficiency, complete with time and space complexity analysis.
 
 ---
+
+## 🚀 Codes Added So Far
+
+1. Counting the number of digits of an array
+2. Reversing the digits of a number with trailing zeros handling
+3. palindrome checking
+   
