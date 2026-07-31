@@ -16,5 +16,6 @@ Each solution focuses on correctness, readability, and efficiency, complete with
 
 1. Counting the number of digits of an array
 2. Reversing the digits of a number with trailing zeros handling
-3. palindrome checking
+3. Palindrome checking
+4. Anagram checking
    
